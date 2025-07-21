@@ -1,11 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Ajay Singh Rathore</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Welcome Banner" width="600"/>
+</h1>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=9D79FE&center=true&vCenter=true&width=600&lines=Passionate+Flutter+Developer;Loves+Beautiful+UI+Designs;Always+Learning+and+Building+📱"
-    alt="Typing SVG"
-  />
-</p>
+<h3 align="center">💻 Flutter Enthusiast & ✨ Mobile UI Explorer from 🇮🇳 India</h3>
 
 ---
 
@@ -39,7 +36,7 @@
 - 🔭 Working on: **Yoga Training App**  
 - 🌱 Learning: **Flutter**, **Dart**, **Firebase**, **Clean Architecture**  
 - 🤝 Collaborating on: **Open‑source Flutter UI Widgets**  
-- 🛠️ Seeking help with: **Flutter performance & animations**  
+- 🛠️ Need help with: **Flutter performance & animations**  
 - ⚡ Fun fact: I **debug faster** when there’s music playing 🎧
 
 ---
@@ -93,11 +90,7 @@
 
 ---
 
-### 🎉 Thanks for Visiting!
+<h3 align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Celebration GIF" width="400"/>
+</h3>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=9D79FE&center=true&vCenter=true&width=600&lines=Let’s+build+something+awesome+together!;Happy+Coding+👨‍💻"
-    alt="Outro Typing SVG"
-  />
-</p>
