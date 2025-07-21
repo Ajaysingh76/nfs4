@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Welcome Banner" width="600"/>
+  <img src="<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 </h1>
 
 <h3 align="center">💻 Flutter Enthusiast & ✨ Mobile UI Explorer from 🇮🇳 India</h3>
