@@ -1,8 +1,15 @@
 <h1 align="center">
-  <img src="<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+  <img
+    src="./coding.gif"
+    alt="Banner GIF"
+    width="600"
+    height="250"
+  />
 </h1>
 
-<h3 align="center">💻 Flutter Enthusiast & ✨ Mobile UI Explorer from 🇮🇳 India</h3>
+<h3 align="center">
+  💻 Flutter Enthusiast & Mobile UI Explorer from 🇮🇳 India
+</h3>
 
 ---
 
@@ -11,8 +18,8 @@
 <p align="center">
   <img
     src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
-    width="300"
     alt="Cat coding gif"
+    width="300"
   />
 </p>
 
@@ -68,9 +75,6 @@
     src="https://github-readme-stats.vercel.app/api?username=ajaysingh76&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysingh76&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
@@ -91,6 +95,9 @@
 ---
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Celebration GIF" width="400"/>
+  <img
+    src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"
+    alt="Celebration GIF"
+    width="400"
+  />
 </h3>
-
